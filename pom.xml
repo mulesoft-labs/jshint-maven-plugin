@@ -11,10 +11,6 @@
     <name>JSHint Maven Plugin</name>
     <description>Validates Javascript files using JSHint</description>
 
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
-
     <scm>
         <connection>scm:git:git://github.com:mulesoft/jshint-maven-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:mulesoft/jshint-maven-plugin.git</developerConnection>
